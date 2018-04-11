@@ -1,0 +1,5 @@
+com\personal\appcontext\BeanContainer.class
+com\personal\weatherAnalysis\Weather.class
+com\personal\weatherAnalysis\WeatherMainInterface.class
+com\personal\weatherAnalysis\WeatherMain.class
+com\personal\weatherAnalysis\WeatherInterfaceImple.class
